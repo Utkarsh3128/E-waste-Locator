@@ -10,7 +10,7 @@ import Map from "./Components/Map.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/E-waste-Locator/",
     element: <App />,
   },
   {
