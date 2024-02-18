@@ -14,23 +14,23 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/login",
+    path: "/E-waste-Locator/login",
     element: <Login />,
   },
   {
-    path: "/recycle",
+    path: "/E-waste-Locator/recycle",
     element: <Recycle />,
   },
   {
-    path: "/reward",
+    path: "/E-waste-Locator/reward",
     element: <Reward />,
   },
   {
-    path: "/recycle/map",
+    path: "/E-waste-Locator/recycle/map",
     element: <Map />,
   },
   {
-    path: "/pune",
+    path: "/E-waste-Locator/pune",
     errorElement: <div>Not Found</div>,
   },
 ]);
