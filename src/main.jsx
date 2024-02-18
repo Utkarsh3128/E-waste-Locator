@@ -22,7 +22,7 @@ const router = createBrowserRouter([
     element: <Recycle />,
   },
   {
-    path: "E-waste-Locator/reward",
+    path: "/E-waste-Locator/reward",
     element: <Reward />,
   },
   {

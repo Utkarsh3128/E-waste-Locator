@@ -194,7 +194,7 @@ const Homepage = () => {
               each proper disposal and unlock exclusive perks.
             </p>
             <button className="text-white bg-green-600 p-3 rounded-sm">
-              <Link to="/reward">Rewards</Link>
+              <Link to="reward">Rewards</Link>
             </button>
           </motion.div>
         </div>
