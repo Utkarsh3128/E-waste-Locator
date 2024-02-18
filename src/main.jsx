@@ -14,7 +14,7 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/E-waste-Locator/login",
+    path: "E-waste-Locator/login",
     element: <Login />,
   },
   {
